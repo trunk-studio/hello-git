@@ -7,7 +7,8 @@
 嗨 我是Pickle  中午吃便當
 
 ## B
-
+adam
+hi
 
 ## C
 Ian 你好阿 Git hub
@@ -19,7 +20,7 @@ Ian 你好阿 Git hub
 
 
 ## F
-
+HI~我是Gill !!
 
 ## G
 大家好 我是tony 身高170 體重57
